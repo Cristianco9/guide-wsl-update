@@ -123,6 +123,12 @@ Debe aparecer Ubuntu con un `*` indicando que es la distribución por defecto.
 wsl
 ```
 Esto debería abrir Ubuntu en modo terminal.
+
+Verificar su funcionamiento y cerrar la terminal de Ubuntu
+
+```powershell
+exit
+```
 ---
 
 ### Paso 4.2 - Confirmar que el Kernel WSL 2 este en uso:
